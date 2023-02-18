@@ -33,6 +33,7 @@
         <elasticsearch.version>7.12.1</elasticsearch.version>
     </properties>
 
+
     <dependencyManagement>
         <dependencies>
             <dependency>
